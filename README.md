@@ -1,2 +1,3 @@
 # hello-jenkins
-test programiranje 2 
+test programiranje 2 naloga
+
